@@ -430,10 +430,10 @@ button {
         display: block;
     }
 
-    #nav-links .active {
+    #nav-links.active {
         display: flex;
     }
-
+    
     nav {
         justify-content: space-between;
     }
